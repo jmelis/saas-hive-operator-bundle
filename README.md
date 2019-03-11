@@ -1,1 +1,1 @@
-README
+Use branch `staging` and `production`
