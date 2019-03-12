@@ -1,1 +1,1 @@
-Use branch `staging` and `production`
+Use the [staging](tree/staging) and [production](tree/production) branches.
